@@ -1,0 +1,27 @@
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe.config
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\bin\Debug\HomeProg1.pdb
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csprojResolveAssemblyReference.cache
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Form1.resources
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Properties.Resources.resources
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csproj.GenerateResource.Cache
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.exe
+c:\users\danil\documents\visual studio 2013\Projects\HomeProg1\HomeProg1\obj\Debug\HomeProg1.pdb
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe.config
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.exe
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csprojResolveAssemblyReference.cache
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Form1.resources
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Properties.Resources.resources
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csproj.GenerateResource.Cache
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\bin\Debug\HomeProg1.pdb
+C:\Users\JakeARS\Desktop\HomeProg1\HomeProg1\obj\Debug\HomeProg1.pdb
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe.config
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.exe
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.pdb
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\bin\Debug\HomeProg1.pdb
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csprojResolveAssemblyReference.cache
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Form1.resources
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Properties.Resources.resources
+C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csproj.GenerateResource.Cache
