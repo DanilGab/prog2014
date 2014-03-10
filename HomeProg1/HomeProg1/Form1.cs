@@ -9,6 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml.Serialization;
+using DevExpress.XtraReports.UI;
 
 namespace HomeProg1
 {
@@ -17,16 +18,6 @@ namespace HomeProg1
         public Form1()
         {
             InitializeComponent();
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label6_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -92,6 +83,9 @@ namespace HomeProg1
         public class AnketData
         {
             public List<PeopleData> Students { get; set; }
+            [XmlIgnore]
+            public int Total { get { return Students.Count; } }
+           
         }
 
         public class PeopleData
@@ -106,7 +100,10 @@ namespace HomeProg1
             public bool music { get; set; }
             public bool sport { get; set; }
             public string over2 { get; set; }
-
+            
+            
+            [XmlIgnore]
+            public string Description { get { return this.ToString(); } }
             public override string ToString()
             {
                 var a = name + " " + famel + " Группа " + group +
@@ -120,5 +117,27 @@ namespace HomeProg1
                 return a;
             }
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            var pr = new HomeReport();
+            AnketData pd = CreateAnketData();
+            pr.DataSource = new BindingSource() { DataSource = pd };
+            pr.ShowPreview();
+        }
+
+        private AnketData CreateAnketData()
+        {
+            AnketData ad = new AnketData();
+
+            ad.Students = new List<PeopleData>();
+            foreach (PeopleData pd in listBox1.Items)
+            {
+                ad.Students.Add(pd);
+            }
+            return ad;
+        }
+
+        
     }
 }

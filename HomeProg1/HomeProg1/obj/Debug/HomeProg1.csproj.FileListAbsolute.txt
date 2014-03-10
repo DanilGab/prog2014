@@ -25,3 +25,14 @@ C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csprojResolveAs
 C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Form1.resources
 C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Properties.Resources.resources
 C:\Users\DaniL\Documents\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csproj.GenerateResource.Cache
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe.config
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.exe
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.pdb
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\bin\Debug\HomeProg1.exe
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\bin\Debug\HomeProg1.pdb
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csprojResolveAssemblyReference.cache
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Form1.resources
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.Properties.Resources.resources
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.csproj.GenerateResource.Cache
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.exe.licenses
+C:\Users\DaniL\Documents\GitHub\prog2014\HomeProg1\HomeProg1\obj\Debug\HomeProg1.HomeReport.resources
