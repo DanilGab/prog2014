@@ -40,9 +40,7 @@ namespace WindowsFormsApplication4
                     Color newColor;
                     newColor = Color.FromArgb(oldColor.A, 255 - oldColor.R, 255 - oldColor.G, 255 - oldColor.B);
                     Image1.SetPixel(x, y, newColor);
-                    //Color pixelColor = Image1.GetPixel(x, y);
-                    //Color newColor = Color.FromArgb(pixelColor.c, pixelColor.B , pixelColor.A);
-                    //Image1.SetPixel(x, y, newColor);
+                    
                 }
             }
             pictureBox2.Image = Image1;
@@ -65,17 +63,28 @@ namespace WindowsFormsApplication4
             pictureBox2.Image = Image1;
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
-            
-        }
-
         private void button6_Click(object sender, EventArgs e)
         {
             pictureBox2.Image = null;
             pictureBox2.Invalidate();
             pictureBox1.Image = null;
             pictureBox1.Invalidate();
+        }
+
+        private void button4_Click_1(object sender, EventArgs e)
+        {
+            int x, y;
+            for (x = 0; x < Image1.Width; x++)
+            {
+                for (y = 0; y < Image1.Height; y++)
+                {
+                    Color pixelColor = Image1.GetPixel(x, y);
+                    Color newColor = Color.FromArgb(pixelColor.R, pixelColor.A, pixelColor.A);
+                    Image1.SetPixel(x, y, newColor);
+                }
+            }
+            pictureBox2.Image = Image1;
+
         }
 
         
